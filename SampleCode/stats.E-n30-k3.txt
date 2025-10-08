@@ -1,0 +1,8 @@
+Best  511.009
+Worst 628.932
+Mean  552.337
+StdDev 38.884
+Best  932.914
+Worst 1698.668
+Mean  1392.803
+StdDev 160.276

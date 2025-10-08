@@ -1,0 +1,11 @@
+# SA Configuration File
+# Temperature parameters
+T_INIT = 2000
+T_END = 0.01
+ALPHA = 0.98
+BETA = 0.3
+L_INNER = 150
+PROGRESS = 1
+# Instance settings
+INSTANCE_NAME = instance
+RUN_ID = 1
